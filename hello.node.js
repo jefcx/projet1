@@ -92,3 +92,4 @@ for (let i = 0; i < tablo.length; i++) {
 console.log('Le nombre max est : ' + maxIs + '.');
 console.log('Le nombre min est : ' + minIs + '.');
 console.log('La somme du tableau est : ' + somme + '.');
+console.log('Coucou');
